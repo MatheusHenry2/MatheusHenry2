@@ -1,4 +1,4 @@
-# Hey 👍
+# Hey 👊
 
 - 🌱 I’m currently learning C++, Java and SQL
 - 💬 Ask me about why did i start a program
