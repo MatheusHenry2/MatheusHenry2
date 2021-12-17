@@ -1,6 +1,6 @@
 # Hey 👊
 
-- 🌱 I’m currently learning C++, Java and SQL
+- 🌱 A curious guy who loves technology and programming
 - 💬 Ask me about why did i start a program
 
 
