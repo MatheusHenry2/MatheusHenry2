@@ -15,8 +15,8 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 - **Quais são seus objetivos de carreira?** Aspirar a ser um líder técnico em desenvolvimento móvel e backend, guiando equipes para criar produtos inovadores e de alta qualidade.
 
 ## 📫 Como entrar em contato
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/matheus-henry/)
-- **E-mail**: [SeuEmail](matheu.play8@hotmail.com)
+- **LinkedIn**:https://www.linkedin.com/in/matheus-henry/
+- **E-mail**: matheu.play8@hotmail.com)
 
 ---
 
